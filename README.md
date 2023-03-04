@@ -1,5 +1,6 @@
 # Spotify-Clone
 
+Spotify clone project based on a YouTube video, project made with the intention of training HTML/CSS.
 
 ![spotifyImg1](https://user-images.githubusercontent.com/110441857/222923736-f0098b41-88c6-460b-9d6b-433fc479eb18.png)
 
